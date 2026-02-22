@@ -49,7 +49,7 @@
   },
   "dependencies": {
     "about-window": "^1.11.1",
-    "ajv": "^6.5.3",
+    "ajv": "^6.14.0",
     "electron-settings": "^3.2.0",
     "electron-updater": "^3.0.3",
     "fs-jetpack": "^1.0.0"
